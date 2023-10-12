@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Už DOSŤ!.blog</title>
+    <title>Categories on Už DOSŤ!.blog_</title>
     <link>https://mudha328.github.io/uzdostblog/categories/</link>
-    <description>Recent content in Categories on Už DOSŤ!.blog</description>
+    <description>Recent content in Categories on Už DOSŤ!.blog_</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>utf-8</language><atom:link href="https://mudha328.github.io/uzdostblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>utf-8</language>
+    <lastBuildDate>Fri, 13 Oct 2023 00:56:44 +0200</lastBuildDate><atom:link href="https://mudha328.github.io/uzdostblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>travel</title>
+      <link>https://mudha328.github.io/uzdostblog/categories/travel/</link>
+      <pubDate>Fri, 13 Oct 2023 00:56:44 +0200</pubDate>
+      
+      <guid>https://mudha328.github.io/uzdostblog/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://mudha328.github.io/uzdostblog/categories/random/</link>
+      <pubDate>Thu, 12 Oct 2023 22:59:05 +0200</pubDate>
+      
+      <guid>https://mudha328.github.io/uzdostblog/categories/random/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
