@@ -1,4 +1,41 @@
 baseURL: "https://mudha328.github.io/uzdostblog/"
 languageCode: utf-8
-title: Už DOSŤ!.blog
+title: Už DOSŤ!.blog_
 theme: PaperMod
+
+enableEmoji: true
+
+params:
+  author: Milan
+  homeInfoParams:
+    Title: "Už dosť! blog_"
+    Content: >
+      Vitajte na mojom mieste. Tu som. 🎉
+
+      - Je to priestor pre zdielanie. 🙂
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/mudha328"
+    - name: Youtube
+      url: "https://www.youtube.com/j"
+    - name: Rss
+      url: "index.xml"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
