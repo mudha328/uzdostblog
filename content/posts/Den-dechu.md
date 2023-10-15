@@ -5,8 +5,6 @@ tags: ["Dych", "Osobný rozvoj"]
 categories: ["Denník"]
 ---
 
-# Nedeľa ako z rozprávky
-
 Dnes som sa prebral po prebdenej noci krátko pred jednou hodinou. S potešením som zistil, že dnešné dýchanie je až o tretej, takže stihnem ešte dačo porobiť. A tak som si dal variť čaj z mačacích pazúrikov (uña de gato) a sadol si na 15 minút do meditácie. Potom som hodil oprat športové veci a po čaji som si dal makový koláč a sprchu. Prišlo mi, že som nejaký zamyslený, keď som sa uvedomil v kúpeĺni ako si utieram mastné vlasy. Nevadí. A tak som vyrazil do komunitného centra Kmeň na dýchanie s kamarátom Jirkom. Dlhšie sme sa nevideli a posledný mesiac bol na retreate v Indii, tak som nańho zvedavý.
 
 Ochaldilo sa a my sme sa mohli pozetrať nas svet spod deky. Jirka nám pripomenul dUOležitosť uvoľnenia pri dýchaní, pretože nám dovoľuje dostať náš dych ďalej. A tak po úvodných spoločných výdychoch sme začali blokom breathe-in-let go. Potom sme sa pomaly začali posúvať k aktivácii a dýchyanie nabralo na intezite. Dýchalo sa mi prekvapivo dobre, po tom čo si 14 dní liečim priedušky. Napriek všetkému som sa cítil pripravený.
