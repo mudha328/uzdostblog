@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Už DOSŤ! blog_</title>
-    <link>https://mudha328.github.io/uzdostblog/posts/</link>
-    <description>Recent content in Posts on Už DOSŤ! blog_</description>
+    <title>Osobný rozvoj on Už DOSŤ! blog_</title>
+    <link>https://mudha328.github.io/uzdostblog/tags/osobn%C3%BD-rozvoj/</link>
+    <description>Recent content in Osobný rozvoj on Už DOSŤ! blog_</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Sun, 15 Oct 2023 21:54:27 +0200</lastBuildDate><atom:link href="https://mudha328.github.io/uzdostblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2023 21:54:27 +0200</lastBuildDate><atom:link href="https://mudha328.github.io/uzdostblog/tags/osobn%C3%BD-rozvoj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Den Dechu</title>
       <link>https://mudha328.github.io/uzdostblog/posts/den-dechu/</link>
@@ -14,26 +14,6 @@
       
       <guid>https://mudha328.github.io/uzdostblog/posts/den-dechu/</guid>
       <description>Nedeľa ako z rozprávky Dnes som sa prebral po prebdenej noci krátko pred jednou hodinou. S potešením som zistil, že dnešné dýchanie je až o tretej, takže stihnem ešte dačo porobiť. A tak som si dal variť čaj z mačacích pazúrikov (uña de gato) a sadol si na 15 minút do meditácie. Potom som hodil oprat športové veci a po čaji som si dal makový koláč a sprchu. Prišlo mi, že som nejaký zamyslený, keď som sa uvedomil v kúpeĺni ako si utieram mastné vlasy.</description>
-    </item>
-    
-    <item>
-      <title>New Post</title>
-      <link>https://mudha328.github.io/uzdostblog/posts/new-post/</link>
-      <pubDate>Fri, 13 Oct 2023 00:56:44 +0200</pubDate>
-      
-      <guid>https://mudha328.github.io/uzdostblog/posts/new-post/</guid>
-      <description>Lalala Nieco nieco -la
-lalala dobre </description>
-    </item>
-    
-    <item>
-      <title>Muhauahaha</title>
-      <link>https://mudha328.github.io/uzdostblog/posts/muhauahaha/</link>
-      <pubDate>Thu, 12 Oct 2023 22:59:05 +0200</pubDate>
-      
-      <guid>https://mudha328.github.io/uzdostblog/posts/muhauahaha/</guid>
-      <description>It Lives!!
-Muhauahaha Muhauahaha Muhauahaha </description>
     </item>
     
   </channel>
