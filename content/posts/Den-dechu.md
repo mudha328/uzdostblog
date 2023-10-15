@@ -18,16 +18,18 @@ Už keď mi aj Jirka povedal, že si toho beriem v živote až príliš, priznal
 A tak som si priznal, že menej je niekedy viac a urobil si mentálnu poznámku.
 Dali sme si ešte každý po čaji a vyrazili svojou cestou.
 
+
 #### Zápisky po konci dýchania:
 - Čo chcem robiť, aby som bol vnútorne šťastný?
 - Čomu chcem venovať čas v tomto tele, na tejto zemi, v tomto živote?
 - Chcem robiť breathwork?
 - Je to moja voľba, ako budem žiť.
 
->**Uvedomenia**
 
->*Aj keď je spolupráca s Mexičanom v súlade s tým kto som, vzdialenosť a mierne nalomená dôvera, vyradí túto aktivitu z mojej pozornosti, aspoň do konca roku. A ak to správne odkomunikujem, mohla by cesta spolupráce byť naďalej otvorená.*
+#### **Uvedomenia**
+
+*Aj keď je spolupráca s Mexičanom v súlade s tým kto som, vzdialenosť a mierne nalomená dôvera, vyradí túto aktivitu z mojej pozornosti, aspoň do konca roku. A ak to správne odkomunikujem, mohla by cesta spolupráce byť naďalej otvorená.*
 
 
->Keď som v známom prostredí, ale s neznámimi ľuďmi, nedokážem sa otvoriť bez vedomého pošťuchnutia samého seba k akcii mimo moju komfortnú zónu. A dnes som sa nepošťuchol.
+*Keď som v známom prostredí, ale s neznámimi ľuďmi, nedokážem sa otvoriť bez vedomého pošťuchnutia samého seba k akcii mimo moju komfortnú zónu. A dnes som sa nepošťuchol.*
 
