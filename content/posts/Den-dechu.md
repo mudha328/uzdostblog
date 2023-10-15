@@ -1,0 +1,18 @@
+---
+title: "Den Dechu"
+date: 2023-10-15T21:54:27+02:00
+tags: ["Dych", "Osobný rozvoj"]
+categories: ["Denník"]
+---
+
+# Nedeľa ako z rozprávky
+
+Dnes som sa prebral po prebdenej noci krátko pred jednou hodinou. S potešením som zistil, že dnešné dýchanie je až o tretej, takže stihnem ešte dačo porobiť. A tak som si dal variť čaj z mačacích pazúrikov (uña de gato) a sadol si na 15 minút do meditácie. Potom som hodil oprat športové veci a po čaji som si dal makový koláč a sprchu. Prišlo mi, že som nejaký zamyslený, keď som sa uvedomil v kúpeĺni ako si utieram mastné vlasy. Nevadí. A tak som vyrazil do komunitného centra Kmeň na dýchanie s kamarátom Jirkom. Dlhšie sme sa nevideli a posledný mesiac bol na retreate v Indii, tak som nańho zvedavý.
+
+Ochaldilo sa a my sme sa mohli pozetrať nas svet spod deky. Jirka nám pripomenul dUOležitosť uvoľnenia pri dýchaní, pretože nám dovoľuje dostať náš dych ďalej. A tak po úvodných spoločných výdychoch sme začali blokom breathe-in-let go. Potom sme sa pomaly začali posúvať k aktivácii a dýchyanie nabralo na intezite. Dýchalo sa mi prekvapivo dobre, po tom čo si 14 dní liečim priedušky. Napriek všetkému som sa cítil pripravený.
+Posledná tretina bola dosť intenzívna a tak som si pomáhal rukami držať otvorené pery, ktoré sa mi krútili v kŕči. Potom prišlo uvoľnenie. Posledný blok integarrácie. Tam sme dýchali potichu prirodzene, nosom. So zníženou pozornousťou dychu som viac začal vnímať čo sa vo mne odohráva. Niekoľko krát som precitol a pár sekúnd mi trvalo aby som sa v tejto realite znovu zorientoval. Bolo to ako by ma niečo vyplo a ja som si to všimol až keď som sa vrátil späť.
+Mojou témou bol súlad života ktorý žijem v každonennosti s tým kto som. Zistil som, že som sa dostal bližšie, než som kedy bol, avšak vnímam oblasti v ktorých je nesúlad. Napríklad jednám v rozpore zo svojou identitou aj v takých situáciách, kde činnosť ktorej dávam pozornosť je v súlade s tým kto som, avšak čas ktorý tejto činnosti venujem, beriem z odpočinku a domácich prací.
+
+Tak som to v sebe po dýchaní ešte rozvaľoval a ku kolu zdieľania neprispel. Zaujala ma jedna žena ktorá bola na druhej strane miestnosti. Cítil som z nej vnútornú silu, pozornosť ktorú si dáva, úprimnosť a otvorenosť. Cítit je prítomnosť bolo veľmi príjemné. V jeden moment, keď sme pri výdychu nosom, robili zavratými ústami zvuk M, mal som pocit, že niekto je so mnou v harmónii (tonálnej). A možno nie len tonálnej. Prekvapilo ma, keď sa ma Jirka spýtal, či som túto ženu zaregistroval, pretože vníma že sme veľmi podobní. Odvetil som mu, že akonáhle som ju uvidel, spýtal som sa sám seba, čo ešte v živote potrebujem urobiť aby som mohol životom kráčať po jej boku. Cítil som však familiárne spojenie medzi ňou a mužom vedľa a tak som sa ani nepredstavil. Nerád sa s prílišným entuziazmom vrhám do náručí zadaných žien. Ničto, uvidíme. 
+
+Šli sme potom s Jirkou na večeru. Bolo skvelé ho vidieť a môcť sa s ním porozprávať. Dohnali sme najdôležitejšie udalosti a vrhli sa na cestu vpred. Už keď aj Jirka mi povedal, že si toho beriem na zodpovednosť až príliš, priznal som, že do toho čomu sa venujem v európe, pomáham kamarátovi v Mexiku postaviť "Online univerzitu", aby sa mladí Mexičania dostali k užitočným zručnostiam a možnosti naučiť sa po anglicky. A aj keď je táto činnost v súlade s tým kto som, vzdialenosť a mierne nalomená dôvera k človeku, ktorý ma o spoluprácu požiadal vyradí túto aktivitu z mojej pozornosti aspon do konca roku. Ak to správne odkomunikujem, mohla by cesta spolupráce byť naďalej otvorená. A tak sa púšťam klávesnice a idem si uvariť obed na zajra.
