@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL: "http://uzdost.blog"
+=======
+baseURL: "http://uzdost.blog/"
+>>>>>>> e5f2a41 (yml update)
 languageCode: utf-8
 title: Už DOSŤ! blog_
 theme: PaperMod
