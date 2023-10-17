@@ -4,7 +4,7 @@ date: 2023-10-15T21:54:27+02:00
 tags: ["Dych", "Osobný rozvoj"]
 categories: ["Denník"]
 ---
-![https://pixabay.com/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7528400](breathing-7528400_1280.png "Rosy / Bad Homburg / Germany via Pixabay")
+![Rosy / Bad Homburg / Germany via Pixabay](https://cdn.pixabay.com/photo/2022/10/17/18/03/breathing-7528400_960_720.png)
 
 Dnes som sa prebral po prebdenej noci krátko pred jednou hodinou. S potešením som zistil, že dnešné dýchanie je až o tretej, takže stihnem ešte dačo porobiť. A tak som si dal variť čaj z mačacích pazúrikov ([uña de gato](https://es.wikipedia.org/wiki/Uncaria_tomentosa)) a sadol si na 15 minút do meditácie. Potom som hodil oprat športové veci a po čaji som si dal makový koláč a sprchu. Prišlo mi, že som nejaký zamyslený, keď som sa uvedomil v kúpeĺni ako si utieram mastné vlasy. Nevadí. A tak som znovu naplnil práčku a vyrazil do komunitného centra Kmeň na dýchanie s kamarátom Jirkom. Dlhšie sme sa nevideli a posledný mesiac bol na retreate v Indii, tak som naňho zvedavý.
 
