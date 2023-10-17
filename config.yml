@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 baseURL: "http://uzdost.blog"
-=======
-baseURL: "http://uzdost.blog/"
->>>>>>> e5f2a41 (yml update)
 languageCode: utf-8
 title: Už DOSŤ! blog_
 theme: PaperMod
@@ -14,9 +10,7 @@ params:
   homeInfoParams:
     Title: "Už dosť! blog_"
     Content: >
-      Vitajte na mojom mieste. Tu som. 🎉
-
-      - Je to priestor pre zdielanie. 🙂
+      Vitajte na mojom mieste. Tu som 🎉 Je to priestor pre zdielanie 🙂
 
   socialIcons:
     - name: Github
