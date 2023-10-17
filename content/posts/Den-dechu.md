@@ -4,7 +4,7 @@ date: 2023-10-15T21:54:27+02:00
 tags: ["Dych", "Osobný rozvoj"]
 categories: ["Denník"]
 ---
-![Image by <a href="https://pixabay.com/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7528400">Rosy / Bad Homburg / Germany</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7528400">Pixabay</a>](breathing-7528400_1280.png)
+![https://pixabay.com/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7528400](breathing-7528400_1280.png "Rosy / Bad Homburg / Germany via Pixabay")
 
 Dnes som sa prebral po prebdenej noci krátko pred jednou hodinou. S potešením som zistil, že dnešné dýchanie je až o tretej, takže stihnem ešte dačo porobiť. A tak som si dal variť čaj z mačacích pazúrikov ([uña de gato](https://es.wikipedia.org/wiki/Uncaria_tomentosa)) a sadol si na 15 minút do meditácie. Potom som hodil oprat športové veci a po čaji som si dal makový koláč a sprchu. Prišlo mi, že som nejaký zamyslený, keď som sa uvedomil v kúpeĺni ako si utieram mastné vlasy. Nevadí. A tak som znovu naplnil práčku a vyrazil do komunitného centra Kmeň na dýchanie s kamarátom Jirkom. Dlhšie sme sa nevideli a posledný mesiac bol na retreate v Indii, tak som naňho zvedavý.
 
@@ -20,7 +20,7 @@ Už keď mi aj Jirka povedal, že si toho beriem v živote až príliš, priznal
 A tak som si priznal, že menej je niekedy viac a urobil si mentálnu poznámku.
 Dali sme si ešte každý po čaji a vyrazili svojou cestou.
 
-#### Zápisky po konci dýchania:
+**Zápisky po konci dýchania:**
 
 - Čo chcem robiť, aby som bol vnútorne šťastný?
 - Čomu chcem venovať čas v tomto tele, na tejto zemi, v tomto živote?
